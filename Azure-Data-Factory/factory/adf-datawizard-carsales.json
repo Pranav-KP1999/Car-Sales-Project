@@ -1,0 +1,9 @@
+{
+	"name": "adf-datawizard-carsales",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ad57096-c2b3-4d6c-9412-f5d18bfbc1f4",
+		"tenantId": "ec15726e-765c-4f10-9e63-9e1964529582"
+	}
+}
